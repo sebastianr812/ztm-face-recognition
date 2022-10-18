@@ -11,7 +11,7 @@ class Particles extends Component {
 
           
             
-            {/* <ParticlesBg num={30} color ="#FFFFFF" type="tadpole" className='particles-bg-canvas-self' /> */}
+            <ParticlesBg num={30} color ="#FFFFFF" type="tadpole" className='particles-bg-canvas-self' />
             
             </div>
         )
